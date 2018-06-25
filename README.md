@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# -vue-
-vue的组件、扩展等实例
-=======
 # admin
 
 > A Vue.js project
@@ -23,4 +19,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> 第一次上传后台系统
+
